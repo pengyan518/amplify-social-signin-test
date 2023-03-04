@@ -56,7 +56,7 @@
     },
     "breakCircularDependency": true,
     "dependsOn": [],
-    "hostedUIDomainName": "amplifysocialsignin02f40c8b-02f40c8b",
+    "hostedUIDomainName": "amplifysocialsignin07fca519-07fca519",
     "authProvidersUserPool": [
       "Facebook",
       "Google"
